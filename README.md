@@ -1,5 +1,3 @@
-# concurrence_game_go
-Desenvolvimento de um joge de terminal, utilizando a linguagem "Go", para utilização de elementos concorrentes.ntes.
 # Jogo de Terminal em Go
 
 Este projeto é um pequeno jogo desenvolvido em Go que roda no terminal usando a biblioteca [termbox-go](https://github.com/nsf/termbox-go). O jogador controla um personagem que pode se mover por um mapa carregado de um arquivo de texto.
